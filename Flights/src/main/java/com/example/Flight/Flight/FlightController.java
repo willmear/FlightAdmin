@@ -1,4 +1,4 @@
-package com.example.Flight;
+package com.example.Flight.Flight;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.hateoas.CollectionModel;

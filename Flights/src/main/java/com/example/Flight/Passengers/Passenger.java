@@ -1,6 +1,6 @@
 package com.example.Flight.Passengers;
 
-import com.example.Flight.Flight;
+import com.example.Flight.Flight.Flight;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.AllArgsConstructor;

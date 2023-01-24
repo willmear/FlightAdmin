@@ -1,4 +1,4 @@
-package com.example.Flight;
+package com.example.Flight.Flight;
 
 import ExceptionHandling.FlightNotFoundException;
 import com.example.Flight.Passengers.Passenger;

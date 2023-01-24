@@ -1,4 +1,4 @@
-package com.example.Flight;
+package com.example.Flight.Flight;
 
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.server.RepresentationModelAssembler;

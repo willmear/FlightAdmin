@@ -1,4 +1,4 @@
-package com.example.Flight;
+package com.example.Flight.Flight;
 
 import com.example.Flight.Passengers.Passenger;
 import com.fasterxml.jackson.annotation.JsonFormat;
@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 import java.time.LocalDateTime;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 

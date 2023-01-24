@@ -1,4 +1,4 @@
-package com.example.Flight;
+package com.example.Flight.Flight;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
